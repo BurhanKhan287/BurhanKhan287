@@ -27,8 +27,8 @@ I'm continuously strengthening my foundations in AI/ML while expanding my softwa
 ## 🚀 What I'm Building
 
 - 🤖 **AI & Machine Learning** — developing stronger foundations in ML concepts and applied AI.
-- ⚙️ **AI Automation** — building workflow automations using n8n, APIs, webhooks, databases, and AI services.
-- 📞 **Conversational AI** — experimenting with voice agents, chatbots, lead capture, and appointment automation.
+- ⚙️ **AI Automation** — building workflow automations using n8n, Make.com, APIs, webhooks, databases, and AI services.
+- 📞 **Conversational AI** — experimenting with Vapi, voice agents, chatbots, lead capture, and appointment automation.
 - 💻 **Software Development** — building applications with Python, JavaScript/TypeScript, Next.js, and Node.js.
 - 📊 **Data & Problem Solving** — working with Pandas, OOP, DSA fundamentals, and data-driven systems.
 
@@ -36,12 +36,16 @@ I'm continuously strengthening my foundations in AI/ML while expanding my softwa
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Markup
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### AI / Data
 
@@ -60,6 +64,9 @@ I'm continuously strengthening my foundations in AI/ML while expanding my softwa
 ### Automation & AI Tools
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Relevance AI](https://img.shields.io/badge/Relevance%20AI-111827?style=for-the-badge&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-111827?style=for-the-badge&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
@@ -70,13 +77,13 @@ I'm continuously strengthening my foundations in AI/ML while expanding my softwa
 
 ### 🤖 AI Automation Systems
 
-Practical automation systems built with **n8n, APIs, AI services, databases, and webhooks**, including B2B lead-generation and lead-management workflows.
+Practical automation systems built with **n8n, Make.com, APIs, AI services, databases, and webhooks**, including B2B lead-generation and lead-management workflows.
 
 **Focus:** workflow orchestration · API integration · data pipelines · AI agents · business automation
 
 ### 📞 Conversational AI Receptionist
 
-AI-powered receptionist systems designed to handle customer conversations, answer questions, capture lead information, and automate appointment workflows.
+AI-powered receptionist systems using **Vapi and conversational AI** to handle customer conversations, answer questions, capture lead information, and automate appointment workflows.
 
 **Focus:** voice AI · conversational workflows · lead capture · calendar automation
 
