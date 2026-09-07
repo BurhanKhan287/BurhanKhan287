@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Muhammad%20Burhan%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Automation%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1F17,75:0D5C3A,100:00FF88&height=220&section=header&text=Muhammad%20Burhan%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Automation%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%" />
 
 ### BS Artificial Intelligence Student | AI, Automation & Software Development
 
@@ -155,4 +155,4 @@ Advanced Automation Systems
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:050505&height=120&section=footer" width="100%" />
