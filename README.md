@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Muhammad%20Burhan%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Automation%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%" />
 
-### AI & Automation Enthusiast • BS Artificial Intelligence Student
+### BS Artificial Intelligence Student | AI, Automation & Software Development
 
 Building practical AI systems, intelligent automations, and software projects.
 
@@ -16,22 +16,22 @@ Building practical AI systems, intelligent automations, and software projects.
 
 ## 👋 About Me
 
-I'm a **BS Artificial Intelligence student** focused on turning ideas into practical software and AI-powered systems.
+I'm a **BS Artificial Intelligence student** focused on building practical software and AI-powered systems.
 
-My interests sit at the intersection of **Artificial Intelligence, Machine Learning, LLMs, automation, backend development, APIs, and data**. I enjoy designing systems where AI models communicate with applications, databases, external services, and real-world business workflows.
+My work sits at the intersection of **Artificial Intelligence, Machine Learning, LLMs, automation, backend development, APIs, and data**. I design systems where AI models connect with applications, databases, external services, and real-world business workflows.
 
-I have hands-on experience working with **LLM-based applications, prompt engineering, REST APIs, webhooks, conversational AI, workflow automation, and AI-assisted development**. I'm also developing a deeper understanding of how modern LLM systems such as **Claude and other foundation models** can be integrated into reliable applications.
+I work with **LLM-based applications, prompt engineering, Claude and other foundation models, REST APIs, webhooks, conversational AI, workflow automation, and AI-assisted development**. I also work with structured data and integrations using databases such as PostgreSQL and Supabase.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Areas of Focus
 
-- 🤖 **AI & Machine Learning** — strengthening foundations in ML concepts and applied AI.
-- 🧠 **LLM Applications** — working with Claude and other LLMs for reasoning, automation, structured outputs, agents, and AI-powered workflows.
-- ⚙️ **AI Automation** — designing workflows with n8n, Make.com, APIs, webhooks, databases, and AI services.
-- 📞 **Conversational AI** — building voice and chatbot experiences with Vapi, Voiceflow, and other AI platforms.
-- 🔌 **API & Backend Integration** — connecting REST APIs, webhooks, databases, authentication, and third-party services into complete systems.
-- 💻 **Software Development** — building applications with Python, JavaScript/TypeScript, Next.js, Node.js, HTML, and CSS.
+- 🤖 **Artificial Intelligence & Machine Learning** — applied AI, ML fundamentals, and AI-powered applications.
+- 🧠 **LLMs & AI Agents** — Claude, LLM APIs, prompting, structured outputs, reasoning workflows, and agent-based systems.
+- ⚙️ **AI Automation** — n8n, Make.com, Relevance AI, APIs, webhooks, databases, and multi-step workflows.
+- 📞 **Conversational AI** — Vapi, Voiceflow, voice agents, chatbots, lead capture, and appointment automation.
+- 🔌 **API & Backend Integration** — REST APIs, authentication, webhooks, databases, JSON, and third-party service integrations.
+- 💻 **Software Development** — Python, JavaScript, TypeScript, HTML, CSS, Next.js, and Node.js.
 
 ---
 
